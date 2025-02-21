@@ -1,0 +1,12 @@
+django
+djangorestframework
+pyyaml
+numpy
+pandas
+scikit-learn
+tensorflow==2.13.0
+keras
+pillow
+django-cors-headers
+djangorestframework-simplejwt
+pyserial requests
