@@ -3,6 +3,9 @@
 ## 🚀 Overview
 This project is an **EEG-controlled wheelchair** that allows users to navigate using brainwave signals. By analyzing EEG data, the system classifies user intentions and translates them into movement commands. 
 
+## Note
+Frontend got deleted accident from the repo and will be added in a few weeks.
+
 ## 🔬 Technologies Used
 - **Machine Learning**: Fine-tuned `RandomForestClassifier` for EEG signal classification  
 - **Deep Learning**: CNN-based emotion detection (75% accuracy on FER-2013 dataset)  
